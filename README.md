@@ -6,7 +6,7 @@ The Blood Glucose Level Prediction Challenge 2020 - A Deep Learning Approach for
 
 * Albertetti Fabrizio
 * Freiburghaus Jonas
-* Rizzotti Aïcha
+* Rizzotti-Kaddouri Aïcha
 
 ## Organisation
 
